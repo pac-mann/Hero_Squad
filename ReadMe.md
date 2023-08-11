@@ -10,9 +10,11 @@
 An app that allows you to onboard a team of superheroes based on their powers and weaknesses.
 ## Installation
 ### Requirements
--   Laptop
--  intellij IDEA
--   Internet
+- Install IntelliJ on your computer.
+- Install Gradle.
+- Follow the link provided and clone the git repository
+- Run the application on IntelliJ.
+- Input a message you want to encrypt or decrypt in the command line.
 ### 1. Local Repository
 -   Make sure you have a stable internet to have the ability to clone the repository.
 -   Type the following command in your terminal to clone this repository
